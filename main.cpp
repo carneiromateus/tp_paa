@@ -12,7 +12,6 @@ using namespace std;
 
 
 
-// A job has start time, finish time and profit.
 int main()
 {
     Activity arr[] = {{3, 10, 20}, {1, 2, 50}, {6, 19, 100}, {2, 100, 200}};
