@@ -4,11 +4,7 @@
 
 #ifndef UNTITLED_DYNAMIC_H
 #define UNTITLED_DYNAMIC_H
-#include <iostream>
-#include <algorithm>
 #include "activity.h"
-#include <iostream>
-#include <algorithm>
 using namespace std;
 
 

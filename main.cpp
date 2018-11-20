@@ -1,12 +1,9 @@
 //
 // Created by mateus on 19/11/18.
 //
-#include <iostream> 
-#include <algorithm>
 #include "dynamic.h"
 #include "backtracking.h"
 
-class Activity;
 
 using namespace std;
 
